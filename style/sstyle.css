@@ -31,7 +31,7 @@
     border-radius: 5px;
     width: 132px;
     height: 40px;
-    border-color: none;
+    
 }
 .logo-color{
     color:#4E47FF;
@@ -42,4 +42,41 @@
     font-size: 50px;
     font-weight: bold;
     color: #252432;
+}
+/* Starting of main  */
+
+/* action section */
+.action{
+    display: flex;
+    justify-content: space-around;
+    margin:130px 155px 0px 141px;
+    width: 1140;
+    height: 328;
+}
+.immg{
+    border-radius: 40px;
+    width: 370px;
+    height: 280px;
+}
+.action-writing{
+    margin: 62px 400px 62px 0px;
+    display: inline;
+    
+}
+.see{
+    font-size: 25px;
+    font-weight: bold;
+    color: #252432;
+}
+.exp{
+    color: #3B3955;
+    font-size: 15px;
+}
+.lunch{
+    color:white;
+    background-color: #4E47FF;
+    border-radius: 5px;
+    width: 229px;
+    height: 45px;
+    
 }
