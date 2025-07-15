@@ -184,8 +184,8 @@
 }
 .ready-ot{
     font-size: 15px;
-    color: #b8b0b0;
-    font-weight: 100;
+    color: #b1abab;
+    font-weight: 80;
 }
 /* form section */
 .form-section{
@@ -204,7 +204,7 @@
 .colmun-second{
     width: 500px;
     height: 490px;
-    margin-top: 71px;
+    margin-top: 50px;
     margin-bottom: 71px;
 }
 .colmun-second input[type="text"],input[type="email"]{
@@ -236,4 +236,33 @@
     background-color: #4E47FF;
     border-radius: 5px;
     font-size: 16px;
+}
+/* footer area */
+footer{
+    width: 1440px;
+    height: 500px;
+    text-align: center;
+    padding-top: 104px;
+    padding-bottom: 130px;
+}
+.choto-box{
+    width: 531px;
+    height: 221px;
+    padding: 102px 450px 80px 448px;
+}
+.logo-f{
+    font-size: 80px;
+    color: #4E47FF;
+    font-weight: bolder;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.home-f{
+    display: flex;
+    justify-content: space-around;
+}
+.ft{
+    font-size: 20px;
+    color: #b1abab;
+    font-weight: 80;
 }
