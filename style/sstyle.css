@@ -77,6 +77,36 @@
     background-color: #4E47FF;
     border-radius: 5px;
     width: 229px;
-    height: 45px;
+    height: 45px;   
+}
+/* user info section */
+.user-info{
+    width: 900px;
+    height: 306px;
+    background-color: #d0d0e6;
+    margin: 116px 160px 137px 140px;
+    border-radius: 20px;
+    padding: 50px 142px 50px 142px;
+}
+.number{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0px;
+}
+.alphabet{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+   
+}
+.fst{
+    font-size: 60px;
+    font-weight: bold;
+    color: #4E47FF;
+    margin-bottom: 0px;
     
+}
+.sec{
+    margin-top: 0px;
+    color: #5f5e5e;
 }
