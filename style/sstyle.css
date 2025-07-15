@@ -71,6 +71,7 @@
 .exp{
     color: #3B3955;
     font-size: 15px;
+    font-weight: 100;
 }
 .lunch{
     color:white;
@@ -153,4 +154,36 @@
     color: #c1bcbc;
 }.ff{
     margin-right: 15px;
+}
+/* ready focus section */
+.mesment{
+    width: 1140px;
+    height: 700px;
+    margin:100px 150px 92px 150px;
+    text-align: center;
+}
+.ready-imgg{
+    width: 840;
+    height: 364;
+    border-radius: 35px;
+}
+.ready-btn{
+      color:white;
+    background-color: #4E47FF;
+    border-radius: 5px;
+    width: 195px;
+    height: 45px;   
+    margin:20px 450px 20px 450px;
+}
+.both{
+    display: inline;
+}
+.ready-to{
+    font-size: 40px;
+    font-weight: bold;
+}
+.ready-ot{
+    font-size: 15px;
+    color: #b8b0b0;
+    font-weight: 100;
 }
